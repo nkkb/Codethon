@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fecccda2.css",
+    "main.js": "/static/js/main.cd0e88fd.js",
+    "static/media/Background.png": "/static/media/Background.277a6b7f0dd55e911760.png",
+    "static/media/loigo.png": "/static/media/loigo.c532b491fdae019df9d8.png",
+    "static/media/bb1.jpg": "/static/media/bb1.66132098a8abdb369989.jpg",
+    "static/media/profile.png": "/static/media/profile.0d14c6999b4a5c8e86a7.png",
+    "index.html": "/index.html",
+    "main.fecccda2.css.map": "/static/css/main.fecccda2.css.map",
+    "main.cd0e88fd.js.map": "/static/js/main.cd0e88fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fecccda2.css",
+    "static/js/main.cd0e88fd.js"
+  ]
+}
